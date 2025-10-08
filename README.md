@@ -44,10 +44,10 @@
 
 <div align="center">
 
-### 🐍 Minha Animação de Contribuição
+### 📈 Meu Gráfico de Contribuições Isométrico
 
 </div>
 
 <p align="center">
-  <img src="dist/github-snake.svg" alt="snake animation" />
+  <img src="https://isometric.jasonlong.com/pedroalec.svg" alt="Isometric Contributions" />
 </p>
