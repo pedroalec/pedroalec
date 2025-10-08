@@ -6,9 +6,8 @@
 
 Olá! Sou um entusiasta da tecnologia e desenvolvedor focado em criar soluções digitais que sejam eficientes e elegantes. Tenho uma paixão especial por desafios de backend e pela construção de APIs robustas. Atualmente, estou explorando o ecossistema de Python, React e Docker para construir aplicações web completas.
 
-- 🔭 Atualmente estou trabalhando em **um projeto pessoal de [descreva seu projeto]**.
-- 🌱 Estou aprofundando meus conhecimentos em **[tecnologia que está estudando, ex: Docker, Kubernetes, Next.js]**.
-- 🤔 Estou buscando colaborar em **projetos open-source relacionados a [área de interesse]**.
+- 🔭 Atualmente estou trabalhando em **Automações via RPA e Desenvolvimento de Sistemas**.
+- 🌱 Estou aprofundando meus conhecimentos na area **Devops e Desenvolvimento Web**.
 - 📫 Como me encontrar:
 
 <p align="left">
