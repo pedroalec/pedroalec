@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Pedro+Alecrim!;Seja+bem-vindo(a)+ao+meu+perfil!;Sou+Desenvolvedor+Web;Sempre+buscando+aprender+e+evoluir...;Vamos+nos+conectar!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Pedro+Alecrim!;Seja+bem-vindo(a)+ao+meu+perfil!;Sou+Desenvolvedor+Fullstack;Sempre+buscando+aprender+e+evoluir...;Vamos+nos+conectar!" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou um entusiasta da tecnologia e desenvolvedor focado em criar soluções digitais que sejam eficientes e elegantes. Tenho uma paixão especial por desafios de backend e pela construção de APIs robustas. Atualmente, estou explorando o ecossistema de [sua tecnologia principal, ex: JavaScript/TypeScript] para construir aplicações web completas.
+Olá! Sou um entusiasta da tecnologia e desenvolvedor focado em criar soluções digitais que sejam eficientes e elegantes. Tenho uma paixão especial por desafios de backend e pela construção de APIs robustas. Atualmente, estou explorando o ecossistema de Python, React e Docker para construir aplicações web completas.
 
 - 🔭 Atualmente estou trabalhando em **um projeto pessoal de [descreva seu projeto]**.
 - 🌱 Estou aprofundando meus conhecimentos em **[tecnologia que está estudando, ex: Docker, Kubernetes, Next.js]**.
@@ -12,9 +12,9 @@ Olá! Sou um entusiasta da tecnologia e desenvolvedor focado em criar soluções
 - 📫 Como me encontrar:
 
 <p align="left">
-  <a href="mailto:seu-email@dominio.com" alt="Gmail">
+  <a href="mailto:pedro.alecrim10@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/pedroalecrim/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -23,14 +23,18 @@ Olá! Sou um entusiasta da tecnologia e desenvolvedor focado em criar soluções
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ---
@@ -64,9 +68,3 @@ Olá! Sou um entusiasta da tecnologia e desenvolvedor focado em criar soluções
 </div>
 
 ---
-
-## 📈 Gráfico de Contribuições em 3D
-
-<p align="center">
-  <img src="profile-green-animate.svg" alt="3D Contribution Graph" />
-</p>
