@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Pedro+Alecrim!;Seja+bem-vindo(a)+ao+meu+perfil!;Sou+Desenvolvedor+Fullstack;Sempre+buscando+aprender+e+evoluir...;Vamos+nos+conectar!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Pedro+Arthur!;Seja+bem-vindo(a)+ao+meu+perfil!;Sou+Desenvolvedor+Fullstack;Sempre+buscando+aprender+e+evoluir;Vamos+nos+conectar!" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 Sobre Mim
