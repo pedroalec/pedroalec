@@ -65,8 +65,8 @@ Olá! Sou um entusiasta da tecnologia e desenvolvedor focado em criar soluções
 
 ---
 
-## 📈 Gráfico de Contribuições
+## 📈 Gráfico de Contribuições em 3D
 
 <p align="center">
-  <img src="https://isometric.jasonlong.com/pedroalec.svg" alt="Isometric Contributions" />
+  <img src="https://raw.githubusercontent.com/pedroalec/pedroalec/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 </p>
