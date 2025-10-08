@@ -2,19 +2,21 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Roda a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
+    # ADIÇÃO IMPORTANTE: Esta linha dá permissão para a Action escrever no repositório.
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - uses: Platane/snk@v3
         with:
-          # Nome de usuário do GitHub - já configurado para você
           github_user_name: ${{ github.repository_owner }}
-          # Arquivos de saída
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
