@@ -56,17 +56,3 @@ Olá! Sou um entusiasta da tecnologia e desenvolvedor focado em criar soluções
 </div>
 
 ---
-
-## 🚀 Minha Atividade Recente
-
-<div align="center">
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroalec&bg_color=161b22&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-### Últimos Commits
-
-</div>
-
----
